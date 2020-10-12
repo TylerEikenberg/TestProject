@@ -2,6 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<!-- todo get ios codepush staging key -->
+	<!-- <key>CodePushDeploymentKey</key>
+	<string>M2P8ubHCtEpWWaJ91Y_wsa3uB-bLv9qF07rCB</string> -->
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>

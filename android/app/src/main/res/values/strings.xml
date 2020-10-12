@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TestProject</string>
+    <string name="CodePushPublicKey">-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1S0ArDS7Rr+9+WPhLlCo
+OTqcnZbNlp9PhV9pLsOyPSj8PPk58qEYBfzcJKHWXD3kWgam3C/V/a9mfJmWVtGg
+dMSFLL17RSUXdSDUuaM/8/pFEqcrSJE+uRl8mtL2ksVA+ktZ13ZeKp304c9T72Ri
+4l4lw6SRhlZDchmwVp1IyQ5m5AOQfj/4neOa6F7vbnwOuIlx6xBqNmlesuPYwQVU
+nFqjrhzwVfORYyw2jd6TcoNPR/ZROk30NNQ+mPmD1kTcIui8EcqYc84G9kCKvbs6
+nQHKnMgitqzRs1vmskzNTcFZLs/GfXYgoI22+GboPv6iehglgMNPfXGfzvvCwlUt
+lQIDAQAB
+-----END PUBLIC KEY-----</string>
 </resources>
