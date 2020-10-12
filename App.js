@@ -43,7 +43,7 @@ const App: () => React$Node = () => {
           )}
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Step 1ne</Text>
+              <Text style={styles.sectionTitle}>Updates from codepush!!!</Text>
               <Text style={styles.sectionDescription}>Tylers new app</Text>
             </View>
             <View style={styles.sectionContainer}>
